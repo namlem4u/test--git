@@ -1,3 +1,24 @@
-p{
-    background: #fcf;
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul{
+    list-style-type: none;
+    border: solid #ee05ee;
+    background: #77ec16;
+    widows: 1000px; 
+    height: 30px;
+}
+li{
+    font-size: 13px;
+    float: left;
+    line-height: normal;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    padding: 3px;
+   
 }
